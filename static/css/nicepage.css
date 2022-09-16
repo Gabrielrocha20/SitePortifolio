@@ -37968,7 +37968,7 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-footer .u-sheet-1 {
-  min-height: 120px;
+  min-height: 80px;
 }
 
 .u-footer .u-text-1 {
@@ -37999,6 +37999,7 @@ a.u-link.u-text-hover-grey-90:hover {
     width: 340px;
   }
 }
+
 
  /*begin-variables base-font-size*/ 
  html { font-size: 16px; }
